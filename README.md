@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi, I'm Andrea
 
-<!--
-**agbpl2002/agbpl2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at the University of Genoa (UniGe)
+💻 Passionate about web and mobile development
+🔧 Interested in hardware and technology in general
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently
+
+* 🌱 Learning **Tauri 2**
+
+---
+
+### 🧠 Skills
+
+**Languages**
+
+* `C++` `Kotlin` `JavaScript` `PHP`
+
+**Areas of Interest**
+
+* 🌐 Web Development
+* 📱 Mobile Development
+* ⚙️ Hardware & Tech
+
+**Operating Systems**
+
+* 🍎 macOS
+* 🪟 Windows
+* 🐧 Linux
+
+---
+
+### 📫 Contact
+
+* GitHub: https://github.com/agbpl2002
